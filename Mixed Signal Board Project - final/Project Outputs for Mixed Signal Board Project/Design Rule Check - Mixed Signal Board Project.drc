@@ -1,0 +1,52 @@
+Protel Design System Design Rule Check
+PCB File : D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\Mixed Signal Board Project.PcbDoc
+Date     : 14-12-2020
+Time     : 00:52:57
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNet('EARTH')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=1mm) (InNet('EARTH')),(InNet('NetC21_2'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=5mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+   Violation between Hole Size Constraint: (3.12mm > 2.54mm) Pad J3-(10.16mm,66.421mm) on Multi-Layer Actual Hole Size = 3.12mm
+   Violation between Hole Size Constraint: (3.12mm > 2.54mm) Pad J3-(21.59mm,66.421mm) on Multi-Layer Actual Hole Size = 3.12mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH1-1(3.429mm,67.31mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH2-1(3.683mm,3.429mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH3-1(66.421mm,3.429mm) on Multi-Layer Actual Hole Size = 3.5mm
+   Violation between Hole Size Constraint: (3.5mm > 2.54mm) Pad MH4-1(66.421mm,67.31mm) on Multi-Layer Actual Hole Size = 3.5mm
+Rule Violations :6
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (0.243mm < 0.254mm) Between Via (12.129mm,32.727mm) from Top Layer to Bottom Layer And Via (12.129mm,33.22mm) from Top Layer to Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Waived Violations : 0
+Time Elapsed        : 00:00:02

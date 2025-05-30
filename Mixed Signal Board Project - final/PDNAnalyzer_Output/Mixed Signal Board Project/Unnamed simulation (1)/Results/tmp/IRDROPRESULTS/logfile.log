@@ -1,0 +1,30 @@
+Kernel solverccd - Version 2018.4 Build: 20180318
+Kernel solverccd has started
+Install path: C:\ProgramData\Altium\Altium Designer {7B244D72-901D-4400-8C94-72C00E7CD9F9}\Extensions\PDN Analyzer\Solver\
+Performing direct IR-Drop calculation
+Starting pcbmerge
+pcbmerge - Version 2018.4 Build: 20180318
+Reading dar-file
+Opening input file
+Healing antipads
+Extracting geometry of signals nets
+Creating containers
+Combining nets with allowed overlap
+Connecting gridded paths
+Removing small cutouts
+Self-checking
+Self check of signal objects ...
+ERROR: 1131 in pcbmerge
+Overlap of different nets
+Overlap between Net +12V and Net GND on Layer TOP_LAYER near Point (2.1e+03mil, 530mil)!
+Overlap between Net +12V and Net GND on Layer TOP_LAYER near Point (2.15e+03mil, 1.06e+03mil)!
+Overlap between Net +3V3 and Net GND on Layer TOP_LAYER near Point (375mil, 235mil)!
+Overlap between Net +12V and Net GND on Layer BOTTOM_LAYER near Point (2.09e+03mil, 696mil)!
+Overlap between Net +12V and Net GND on Layer BOTTOM_LAYER near Point (2.1e+03mil, 626mil)!
+Overlap between Net +12V and Net GND on Layer BOTTOM_LAYER near Point (2.44e+03mil, 312mil)!
+Overlap between Net +3V3 and Net GND on Layer BOTTOM_LAYER near Point (338mil, 177mil)!
+Overlap between Net +3V3 and Net GND on Layer BOTTOM_LAYER near Point (615mil, 1.06e+03mil)!
+Overlap between Net +3V3 and Net GND on Layer BOTTOM_LAYER near Point (680mil, 1.67e+03mil)!
+Overlap between Net +3V3 and Net GND on Layer BOTTOM_LAYER near Point (746mil, 1.94e+03mil)!
+Overlap between Net +3V3 and Net GND on Layer BOTTOM_LAYER near Point (746mil, 1.99e+03mil)!
+Overlap between 

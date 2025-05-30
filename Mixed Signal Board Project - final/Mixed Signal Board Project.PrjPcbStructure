@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=[1]- Schematic Blocks.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[2]-Power Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[3]-STM32F103 Debugger.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[4]- Ethernet PHY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[5]-Motor Driver Schematic.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[6]-CH340C.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[7]- ADC Chip.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[8]-DAC and MIC.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[9]-STM32F407 Controller.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[10]-Motor Driver-2.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=[1]- Schematic Blocks.SchDoc|FileName=[11]- Power Input and Regulators.SchDoc|SheetNumber=11

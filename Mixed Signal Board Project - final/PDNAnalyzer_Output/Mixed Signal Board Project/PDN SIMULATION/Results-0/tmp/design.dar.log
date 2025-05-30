@@ -1,0 +1,89 @@
+
+Importing D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\PDN SIMULATION\odb.tgz... [Mon Dec 14 00:59:48 2020]
+============================================================
+Reading ODB++ database ...
+
+file not found: odb/misc/info.Z
+Reading file odb/matrix/matrix...
+Reading file odb/steps/pcb/profile...
+Reading file odb/steps/pcb/eda/data...
+Origin of ODB++ database:  Altium Designer file - Version 1.0.0.30000
+WARNING: Ignoring I(296 time(s))
+eda data: 37 packages, 144 nets.
+Reading file odb/steps/pcb/layers/top_solder/features...
+530 SWHs on layer TOP_SOLDER
+
+Reading file odb/steps/pcb/layers/top_layer/features...
+2481 SWHs on layer TOP_LAYER
+
+Reading file odb/steps/pcb/layers/gnd/features...
+353 SWHs on layer GND
+
+Reading file odb/steps/pcb/layers/vcc/features...
+472 SWHs on layer VCC
+
+Reading file odb/steps/pcb/layers/bottom_layer/features...
+1451 SWHs on layer BOTTOM_LAYER
+
+Reading file odb/steps/pcb/layers/bottom_solder/features...
+256 SWHs on layer BOTTOM_SOLDER
+
+Added substrate layer SUBSTRATE-1 below etch layer TOP_LAYER
+Added substrate layer SUBSTRATE-2 below etch layer GND
+Added substrate layer SUBSTRATE-3 below etch layer VCC
+Reading file odb/steps/pcb/layers/top_solder/attrlist...
+Reading file odb/steps/pcb/layers/top_layer/attrlist...
+Reading file odb/steps/pcb/layers/gnd/attrlist...
+Reading file odb/steps/pcb/layers/vcc/attrlist...
+Reading file odb/steps/pcb/layers/bottom_layer/attrlist...
+Reading file odb/steps/pcb/layers/bottom_solder/attrlist...
+WARNING: material values were set to default due to missing information for the following layers:  'TOP_SOLDER', 'TOP_LAYER', 'GND', 'VCC', 'BOTTOM_LAYER', 'BOTTOM_SOLDER'
+parsing drills TOP_LAYER-BOTTOM_LAYER
+Reading file odb/steps/pcb/layers/drill/features...
+Reading file odb/steps/pcb/layers/comp_+_top/components...
+Reading file odb/steps/pcb/layers/comp_+_bot/components...
+WARNING: different refdes prefixes in component group 1K: 
+	 FB3
+	 R28
+	 R29
+	 FB2
+	 FB1
+	 FB4
+INFO: 2 duplicate vertices ignored
+========================================
+INFO: Created CSV file (D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\PDN SIMULATION\Results-0\tmp\design.csv) with component properties extracted from ODB++ file.
+========================================
+========================================
+Lumped-element import (D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\PDN SIMULATION\Results-0\tmp\design.csv)...
+Detected ' ; ' as separator.
+
+Value-string translations:
+	0.1uF ->  99.99999999999999 nF (C)
+	1.5K ->  1.5 kOhms (R)
+	100K ->  100.0 kOhms (R)
+	100uF ->  100.0 uF (C)
+	10K ->  10.0 kOhms (R)
+	10nF ->  10.0 nF (C)
+	10uF ->  10.0 uF (C)
+	150pF ->  150.0 pF (C)
+	1K ->  1.0 kOhms (R)
+	1M ->  1.0 MOhms (R)
+	1uF ->  1.0 uF (C)
+	2.2uF ->  2.2 uF (C)
+	20pF ->  20.0 pF (C)
+	22nF ->  22.0 nF (C)
+	2K ->  2.0 kOhms (R)
+	2nF ->  2.0 nF (C)
+	30pF ->  30.0 pF (C)
+	33K ->  33.0 kOhms (R)
+	3K3 ->  3.3 kOhms (R)
+	4.7uF ->  4.7 uF (C)
+	50mOHM ->  50.0 mOhms (R)
+	51.1R ->  51.1 Ohms (R)
+	6.49K ->  6.49 kOhms (R)
+========================================
+Auto-imported CSV-file 'D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\PDN SIMULATION\Results-0\tmp\design.csv'.
+========================================
+Unifying library padstacks...
+Finished reading database.
+============================================================

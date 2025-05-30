@@ -1,0 +1,9 @@
+
+Program                          : pcbmerge
+Version                          : 1.7.3
+Date                             : 13.Dec 2020 17:29:58
+Input file                       : D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\Unnamed simulation (1)\Results\tmp\design.dar
+Control file                     : D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\Unnamed simulation (1)\Results\tmp\tmp-solverccd\peecmodel.opt
+Selection file                   : 
+Result file                      : D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\Unnamed simulation (1)\Results\tmp\tmp-solverccd\peecmodel.pci
+Error file                       : D:\Documents\DOCS\Batch-2\Mixed Signal Board Project - final\PDNAnalyzer_Output\Mixed Signal Board Project\Unnamed simulation (1)\Results\tmp\IRDROPRESULTS\logfile.log
